@@ -1,0 +1,31 @@
+{
+  "name": "simple-authentication-with-jwt",
+  "version": "1.0.0",
+  "description": "Simple authentication mechanism with unit tests",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --require ts-node/register test/sign-up-test.ts test/login-test.ts test/homepage-test.ts test/logout-test.ts test/reset-test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vahan92/Authentication-testing.git"
+  },
+  "author": "Instigate mobile LLC",
+  "license": "ISC",
+  "homepage": "https://github.com/Vahan92/Authentication-testing#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.0",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.10",
+    "node-typescript": "^0.1.3",
+    "passport": "^0.4.0",
+    "supertest": "^3.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
