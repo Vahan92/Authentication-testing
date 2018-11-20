@@ -1,14 +1,13 @@
 # Simple authentication with jwt
 Implementation of authentication mechanism with jwt.
 
-### 1. AUTHOR
+## 1. AUTHOR
 
 ## Instigate mobile
-```sh
-Emails: info@instigatemobile.com
-        vahan_k@instigatemobile.com
-        armine_ha@instigatemobile.com
-```
+*Emails:*
+- info@instigatemobile.com
+- vahan_k@instigatemobile.com
+- armine_ha@instigatemobile.com
 
 
 
@@ -44,4 +43,4 @@ $ npm install npm@5.5.1
     $ npm test
 ```
 
-# Happy testing!
+# Happy testing! :dancers:
