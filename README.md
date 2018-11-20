@@ -4,9 +4,11 @@ Implementation of authentication mechanism with jwt.
 ### 1. AUTHOR
 
 ## Instigate mobile
-Emails: ...info@instigatemobile.com..
-        ...vahan_k@instigatemobile.com..
-        ...armine_ha@instigatemobile.com..
+```sh
+Emails: info@instigatemobile.com
+        vahan_k@instigatemobile.com
+        armine_ha@instigatemobile.com
+```
 
 
 
